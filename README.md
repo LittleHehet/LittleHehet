@@ -64,20 +64,19 @@ Soy estudiante de Ingeniería de Sistemas y me apasiona la programación, la res
 
 ## Mis estadísticas
 
-<p align="left">
-  <!-- Stats generales -->
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=LittleHehet&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" 
+    src="https://github-readme-stats.vercel.app/api?username=LittleHehet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" 
     alt="GitHub stats" height="160" />
 </p>
 
-<p align="left">
+<p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=LittleHehet&theme=tokyonight&hide_border=true" 
     alt="GitHub Streak" height="160" />
 </p>
 
-<p align="left">
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleHehet&layout=compact&theme=tokyonight&hide_border=true" 
     alt="Top Langs" height="160" />
