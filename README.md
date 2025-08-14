@@ -4,7 +4,8 @@ Soy estudiante de Ingeniería de Sistemas y me apasiona la programación web, Fr
 
 🌍 Estoy radicado en Costa Rica
 
-✉️ Puedes contactarme en alexia.alvarado18@gmail.com
+✉️ Puedes contactarme en mi correo personal alexia.alvarado18@gmail.com
+    O mi correo institucional alexia.alvarado.alfaro@est.una.ac.cr
 
 🧠 Estoy aprendiendo Angular, Node.js
 
