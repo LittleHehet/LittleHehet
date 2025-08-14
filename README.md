@@ -1,6 +1,6 @@
 # Hi there 👋 Mi nombre es Alexia Alvarado Alfaro
 ## Estudiante de Ingeniería de Sistemas | Universidad Nacional de Costa Rica
-Soy estudiante de Ingeniería de Sistemas y me apasiona la programación, la resolución de problemas y la innovación tecnológica. Disfruto depurando, identificando la causa raíz de los problemas y creando soluciones eficientes. Mi objetivo es seguir aprendiendo y creciendo como desarrollador, contribuyendo a proyectos significativos.
+Soy estudiante de Ingeniería de Sistemas y me apasiona la programación web, Frontend, la resolución de problemas y la innovación tecnológica. Mi objetivo es seguir aprendiendo y creciendo como desarrollador, contribuyendo a proyectos significativos.
 
 🌍 Estoy radicado en Costa Rica
 
