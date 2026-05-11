@@ -135,15 +135,9 @@ Soy estudiante de Ingeniería en Sistemas de Información, apasionada por el des
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LittleHehet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400" alt="GitHub stats" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LittleHehet&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleHehet&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Langs" height="160" />
 </p>
+
 ---
 
 ## 🌐 Conecta conmigo
